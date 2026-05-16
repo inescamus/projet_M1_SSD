@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
-<head><meta charset="UTF-8"><title>README</title></head>
+<head><meta charset="UTF-8"></head>
 <body>
   <h1>Projet M1 SSD – Calcul de taille d'échantillon</h1>
   <p>
