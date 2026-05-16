@@ -5,7 +5,7 @@
   <h1>Projet M1 SSD – Calcul de taille d'échantillon</h1>
   <p>
     Ce dépôt contient le code R réalisé dans le cadre d'un projet de Master 1 mathématiques parcours Statistique et Science des Données au sein de l'
-    Université de Montpellier encadré par Maïlis Amico et Benjamin Cuer.
+  université de Montpellier encadré par Maïlis Amico et Benjamin Cuer.
   </p>
   <p>
     L'objectif est d'étudier le calcul de taille d'échantillon pour la comparaison de deux proportions dans les
